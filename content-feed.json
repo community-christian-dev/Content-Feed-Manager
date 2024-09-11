@@ -1,0 +1,53 @@
+{
+    "providerName": "Community Christian Church",
+    "language": "en-US",
+    "lastUpdated": "2024-09-11T00:09:53.136492Z",
+    "CKIDS": [
+        {
+            "longDescription": "September Toddler Bible Story for September 2024.",
+            "thumbnail": "https://my-roku-videos.s3.us-east-2.amazonaws.com/3.jpg",
+            "releaseDate": "2024-09-15",
+            "genres": [
+                "educational"
+            ],
+            "id": "ckids-September-Toddler-Bible-Story-2024-09-15",
+            "shortDescription": "September Toddler Bible Story for September 2024.",
+            "title": "September Toddler Bible Story",
+            "content": {
+                "duration": 301,
+                "videos": [
+                    {
+                        "videoType": "MP4",
+                        "url": "https://my-roku-videos.s3.us-east-2.amazonaws.com/September%20Toddler%20Bible%20Story.mp4",
+                        "quality": "HD"
+                    }
+                ],
+                "language": "en-us",
+                "dateAdded": "2024-09-10T02:48:32.135648+00:00"
+            }
+        },
+        {
+            "longDescription": "Preschool Bible Story for September 22, 2024.",
+            "thumbnail": "none",
+            "releaseDate": "2024-09-22",
+            "genres": [
+                "educational"
+            ],
+            "id": "00202409221726013264",
+            "shortDescription": "Preschool Bible Story for September 22, 2024.",
+            "title": "September 22nd Preschool Bible Story",
+            "content": {
+                "duration": 306,
+                "videos": [
+                    {
+                        "url": "example.com",
+                        "quality": "HD",
+                        "videoType": "MP4"
+                    }
+                ],
+                "language": "en-US",
+                "dateAdded": "2024-09-11T00:06:38.655139+00:00"
+            }
+        }
+    ]
+}
