@@ -1,7 +1,7 @@
 {
     "providerName": "Community Christian Church",
     "language": "en-US",
-    "lastUpdated": "2024-09-11T13:26:45.969685Z",
+    "lastUpdated": "2024-09-11T15:18:50.073610Z",
     "CKIDS": [
         {
             "longDescription": "September Toddler Bible Story for September 2024.",
@@ -27,28 +27,73 @@
             }
         },
         {
-            "longDescription": "Preschool Bible Story for September 22, 2024.",
-            "thumbnail": "none",
-            "releaseDate": "2024-09-22",
+            "longDescription": "Preschool and toddler song for September 2024.",
+            "thumbnail": "https://my-roku-videos.s3.us-east-2.amazonaws.com/september_2024_song-thumbnail.jpg",
+            "releaseDate": "2024-09-11",
             "genres": [
                 "educational"
             ],
-            "id": "00202409221726013264",
-            "shortDescription": "Preschool Bible Story for September 22, 2024.",
-            "title": "September 22nd Preschool Bible Story",
+            "id": "00202409111726067494",
+            "shortDescription": "Preschool and toddler song for September 2024.",
+            "title": "Preschool and Toddler Song",
             "content": {
-                "duration": 306,
+                "duration": 180,
                 "videos": [
                     {
-                        "url": "example.com",
+                        "url": "https://my-roku-videos.s3.us-east-2.amazonaws.com/September%20Preschool%20and%20Toddler%20Song.mp4",
                         "quality": "HD",
                         "videoType": "MP4"
                     }
                 ],
                 "language": "en-US",
-                "dateAdded": "2024-09-11T00:06:38.655139+00:00"
+                "dateAdded": "2024-09-11T15:09:10.450709+00:00"
+            }
+        },
+        {
+            "longDescription": "September 5 minute countdown.",
+            "thumbnail": "https://my-roku-videos.s3.us-east-2.amazonaws.com/september_2024_countdown-thumbnail.jpg",
+            "releaseDate": "2024-09-11",
+            "genres": [
+                "educational"
+            ],
+            "id": "00202409111726067662",
+            "shortDescription": "September 5 minute countdown.",
+            "title": "September 5 Minute Countdown",
+            "content": {
+                "duration": 301,
+                "videos": [
+                    {
+                        "url": "https://my-roku-videos.s3.us-east-2.amazonaws.com/September%205%20Minute%20Countdown.mp4",
+                        "quality": "HD",
+                        "videoType": "MP4"
+                    }
+                ],
+                "language": "en-US",
+                "dateAdded": "2024-09-11T15:12:20.305716+00:00"
+            }
+        },
+        {
+            "longDescription": "Clean up song",
+            "thumbnail": "https://my-roku-videos.s3.us-east-2.amazonaws.com/clean_up_song-thumbnail.jpg",
+            "releaseDate": "2024-09-11",
+            "genres": [
+                "educational"
+            ],
+            "id": "00202409111726067756",
+            "shortDescription": "Clean up song",
+            "title": "Clean Up Song",
+            "content": {
+                "duration": 122,
+                "videos": [
+                    {
+                        "url": "https://my-roku-videos.s3.us-east-2.amazonaws.com/Clean%20Up%20Song.mp4",
+                        "quality": "HD",
+                        "videoType": "MP4"
+                    }
+                ],
+                "language": "en-US",
+                "dateAdded": "2024-09-11T15:14:30.248294+00:00"
             }
         }
-    ],
-    "Students": []
+    ]
 }
