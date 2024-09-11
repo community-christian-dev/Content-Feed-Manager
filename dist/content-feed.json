@@ -1,7 +1,7 @@
 {
     "providerName": "Community Christian Church",
     "language": "en-US",
-    "lastUpdated": "2024-09-11T00:09:53.136492Z",
+    "lastUpdated": "2024-09-11T13:26:45.969685Z",
     "CKIDS": [
         {
             "longDescription": "September Toddler Bible Story for September 2024.",
@@ -49,5 +49,6 @@
                 "dateAdded": "2024-09-11T00:06:38.655139+00:00"
             }
         }
-    ]
+    ],
+    "Students": []
 }
