@@ -67,6 +67,10 @@ def print_all_sections(manager):
     manager.print_all_sections()
 
 
+def upload(manager):
+    manager.upload_to_s3()
+
+
 input_functions = {
     "quit": quit_program,
     "print": print_sections,
@@ -75,6 +79,7 @@ input_functions = {
     "edit": edit_content,
     "del": delete_content,
     "save": save_data,
+    "upload": upload,
     "help": help
 }
 

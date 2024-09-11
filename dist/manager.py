@@ -1,12 +1,23 @@
 import json
 from datetime import datetime
+import boto3
 
 
 class ContentManager:
     invalid_sections = ["providerName", "language", "lastUpdated"]
-    def __init__(self, file_path):
+    def __init__(self, file_path, bucket_name, s3_key):
         self.file_path = file_path
+        self.bucket_name = bucket_name
+        self.s3_key = s3_key
+        self.s3_client = boto3.client('s3')
         self.load_data()
+
+    def upload_to_s3(self):
+        try:
+            self.s3_client.upload_file(self.file_path, self.bucket_name, self.s3_key)
+            print(f"Successfully uploaded {self.file_path} to {self.bucket_name}/{self.s3_key}")
+        except Exception as e:
+            print(f"Failed to upload to S3: {e}")
 
     def load_data(self):
         with open(self.file_path, 'r') as file:
